@@ -10,5 +10,5 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,gradle,figma,git,kotlin,latex,arduino,anaconda,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,js,typescript,firebase,cpp,java,nextjs,mysql,docker,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,js,typescript,firebase,cpp,java,nextjs,mysql,docker,postgres,flutter" /><br>
 </div>
