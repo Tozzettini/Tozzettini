@@ -14,6 +14,8 @@
 </div>
 <br>
 <p align="center">
-  <strong>Actively shipping useful software and studying for coding interviews. <br>
-   Check out my website for more information.</strong>
+  <strong>
+   Actively shipping useful software and studying for coding interviews. <br>
+   <a href="https://zumziche.com">Check out my website for more information.</a>
+  </strong>
 </p>
